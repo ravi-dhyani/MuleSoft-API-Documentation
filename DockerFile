@@ -1,0 +1,10 @@
+FROM launcher.gcr.io/google/nodejs
+
+ARG apiName \ 
+workerSize \ 
+runtime \ 
+workers \
+enviroment
+
+
+RUN echo "APIname--> $apiName workerSize--> $workerSize runtime -->$runtime workers --> $workers "
