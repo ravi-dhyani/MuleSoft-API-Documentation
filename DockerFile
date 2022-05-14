@@ -7,4 +7,4 @@ workers \
 enviroment
 
 
-RUN echo "APIname--> $apiName workerSize--> $workerSize runtime -->$runtime workers --> $workers "
+RUN echo "APIname--> $apiName workerSize--> $workerSize runtime -->$runtime workers --> $workers enviroment --> $enviroment "
