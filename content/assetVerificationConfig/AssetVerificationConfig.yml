@@ -1,0 +1,8 @@
+# "Pages" listed here should exist as markdown files in the MULE_ASSETPAGEMARKDOWNPATH folder
+# the pages should have dot md extension 
+# for example <MULE_ASSETPAGEMARKDOWNPATH>/home.md and <MULE_ASSETPAGEMARKDOWNPATH>/Contact.md  
+Pages: Contact,Details,home,Environment-and-Testing,How-to-Consume,Security,Support,Welcome-Page
+Categories:
+    API TYPE: System,
+    LIFECYCLESTATE: LIVE,DESIGN
+    CONSUMER TYPE: External
